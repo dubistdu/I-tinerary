@@ -1,0 +1,17 @@
+.page-header
+  = link_to new_<%= singular_table_name %>_path, class: 'btn btn-primary' do
+    %span.glyphicon.glyphicon-plus
+    New <%= human_name %>
+%h1 Listing <%= plural_table_name %>
+
+.table-responsive
+  %table.table.table-striped.table-bordered.table-hover
+    %thead
+      %tr
+<% for attribute in attributes -%>
+        %th <%= attribute.human_name %>
+<% end -%>
+        %th{colspan: 3}
+
+    %tbody.table-body
+      = render @<%= plural_table_name %>
