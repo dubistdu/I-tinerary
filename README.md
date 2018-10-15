@@ -2,7 +2,7 @@
 ### Community based one stop travel planner for designing a trip based on a person's interest
 
 - Plan a trip aroundy medical procedures 
-- Plan a "Global warming" bucket list 
+- Plan a Dooms day destinations
 - Plan a trip around little kids
 - Plan a trip around Holiday
 - Plan a trup around pet
