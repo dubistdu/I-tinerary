@@ -1,6 +1,9 @@
-## I-tinerary (or be like a local...doing something locals do)
+## I-tinerary (One stop Travel Iteinerary planner)
 ### Community based one stop travel planner/ trip blog
-- User can share/ search their recent experience of their trip 
-- Local rules/ informations/ laws/ customs/ traveling with pet/ traveling with baby/ traveling with kids
-- What to buy locally/ restaurants/ using local deals/ popular local(country)apps to download (for local deals/ meals/ ...etc)
-Movie/
+- Plan a trip aroundy medical prodecures 
+- Plan a trip around little kids
+- Plan a trip around Holiday
+- Plan a trup around pet
+- Plan a trip around Elderly
+- Plan a trip around Activities
+- Plan a trip around Interest
