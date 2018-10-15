@@ -8,4 +8,4 @@
 - Plan a trip around Activities
 - Plan a trip around Interest
 
-https://user-images.githubusercontent.com/18110666/45200131-55fa0d00-b23d-11e8-91f1-92e2e01e87e7.jpg
+![map_w_country_name](https://user-images.githubusercontent.com/18110666/45202804-1edd2900-b248-11e8-9575-1a7632b52644.jpg)
